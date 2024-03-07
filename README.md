@@ -1,5 +1,5 @@
 # Algorithms
-This repository is a collection of algorithms I learned so for based on Javsscript Language. I hope I could do well understanding these concepts :)
+This repository is a collection of algorithms I learned so far based on Javsscript Language. I hope I could do well understanding these concepts :)
 
 
 ## License
